@@ -16,7 +16,7 @@ If no, well you're still in luck, this is a very feature rich Mineflayer thingy.
 - Smelting
 - Fighting (Includes PVP)
 - Guarding
-- Building
+- Building (It sucks, wouldn't use)
 - Farming
 - AntiAFK
 
